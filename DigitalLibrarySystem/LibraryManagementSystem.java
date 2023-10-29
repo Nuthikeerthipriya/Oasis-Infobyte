@@ -10,7 +10,7 @@ public class Library_management extends JFrame implements ActionListener {
     private JPanel panel;
     private ArrayList<String[]> books = new ArrayList<String[]>();
 
-    public Library_Management() {
+    public Library_management() {
         setTitle("Library Management System");
         setSize(600, 300);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
